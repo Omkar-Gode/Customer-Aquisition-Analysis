@@ -1,4 +1,4 @@
-# Customer-Aquisition-Analysis
+# Customer-Acquisition-Analysis
 Dataset Source - 
 https://www.kaggle.com/datasets/nxtwaveda/data-analyst
 
